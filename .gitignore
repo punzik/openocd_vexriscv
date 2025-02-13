@@ -9,7 +9,6 @@
 *.a
 *.lo
 *.la
-*.in
 
 # generated source files
 src/jtag/minidriver_imp.h
@@ -63,7 +62,6 @@ autom4te.cache
 config.h
 config.log
 config.status
-configure
 doxygen
 doxygen.log
 Doxyfile
